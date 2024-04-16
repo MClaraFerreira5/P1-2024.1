@@ -24,7 +24,7 @@ public class MiniProjeto1 {
                     System.out.println("O gatinho tenta procurar outro caminho, mas não encontra. Com isso ele vai ficando cansado e com fome, e morre RIP");
             }
             x.close();
-            System.out.println("FIM");
+            System.out.println("FI");
         }
     }
 }
